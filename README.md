@@ -1,2 +1,2 @@
 # animoji
-a fully responsive site through css grid
+a simple fully responsive page through css grid
